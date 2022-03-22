@@ -1,0 +1,33 @@
+{
+    margin:0;
+    padding:0;
+}
+
+body{
+     background:beige;
+     color:blue;
+}
+
+img{
+    height:60px;
+}
+
+section{
+    background:cyan;
+    
+}
+#first{
+    background:orange;
+}
+.second{
+    background:black;
+}
+.second-para{
+    font-size:300%;
+}
+.second p{
+    color:aqua;
+}
+.second.wrapper{
+    margin:3em
+}
